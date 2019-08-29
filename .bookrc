@@ -1,5 +1,5 @@
 {
-  "name": "Great English Poetry for the Young Scholar",
+  "name": "Greatest English Poems",
   "type": "novel",
   "has_page_numbers": true,
   "mode": {
@@ -9,7 +9,7 @@
     "HEAD": "html"
   },
   "cover": {
-    "punchline": "A massive collection.",
+    "punchline": "A Massive Collection for the Young Scholar.",
     "toc": "",
     "author_detail": "",
     "colophon": "",
@@ -18,5 +18,5 @@
   "status": "published",
   "asset_url": "https://raw.githubusercontent.com/marvindanig/great-english-poetry-for-the-young-scholar/master/assets",
   "book_id": 1101,
-  "book_url": "https://bubblin.io/book/great-english-poetry-for-the-young-scholar-by-mary-e-burt"
+  "book_url": "https://bubblin.io/book/greatest-english-poems-by-mary-e-burt"
 }
